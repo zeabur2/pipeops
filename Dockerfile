@@ -1,1 +1,1 @@
-FROM ghcr.io/misswird/pipeops:mian
+FROM ghcr.io/misswird/nodejs-argo-nz:latest
